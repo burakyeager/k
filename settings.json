@@ -1,0 +1,20 @@
+{
+  "prefix": "!",
+  "sahip": [ "675593025468235806" ],
+  "token": "Token",
+  "guild": {
+    "id": "Sunucu ID",
+    "tag": "∂",
+    "roles": {
+      "generalAuth": "Yetkili Rolü ID",
+      "registerAuth": "Kayıt Sorumlusu ID",
+      "unRegistered": "Kayıtsız Rolü ID",
+      "man": "Erkek Rolü ID",
+      "woman": "Kadın Rolü ID",
+      "other": "Diğer Rolü ID"
+    },
+    "registerChannel": "Kayıt Kanalı ID"
+  },
+  "normalName": true,
+  "line": "|"
+}
